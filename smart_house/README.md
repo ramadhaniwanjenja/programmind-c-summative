@@ -18,14 +18,10 @@ An embedded system application that simulates a smart home environment with sens
 - Breadboard and jumper wires
 
 ## Circuit Diagram
-```
-[Insert circuit diagram image here]
-```
+![Smart Home Circuit](circuit.png)
 
 ## Project Layout
-```
-[Insert project layout/setup image here]
-```
+![Hardware Setup](project_setup.png)
 
 ## Pin Configuration
 | Component | Pin |
